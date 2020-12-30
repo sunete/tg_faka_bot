@@ -5,16 +5,16 @@ API = 'https://home.bakbak.cn/'
 # 商户ID
 ID = 12123
 # 商户密钥
-KEY = 'DZNEk2dQzKD10NCX0RwR'
+KEY = 'happig2dQzKD10NCX0RwR'
 
 # 支付成功跳转地址
 JUMP_URL = "https://kangle.bakbak.cn/paysuccess.html"
 # 支付超时时间(秒)
 PAY_TIMEOUT = 300
 # BOT API
-TOKEN = '1297987814:AAG4kO2l-6wuPwoPMF7imHOJtpYAI'
+TOKEN = '1093849308:AAFBZgUfWovniL8EIUj6SN60CzilnbsUldA'
 # ADMIN ID
-ADMIN_ID = [7442874233]
+ADMIN_ID = [463279279]
 
 # 管理员命令
 ADMIN_COMMAND_START = 'iadmin'
